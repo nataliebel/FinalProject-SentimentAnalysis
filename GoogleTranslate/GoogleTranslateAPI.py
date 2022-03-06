@@ -127,7 +127,7 @@ class GoogleTranslateAPI(object):
 if __name__ == '__main__':
 
     # the temporary main
-    test_text = "Hey, My name is Gidi. I like movies, sex, and Disco-Dancing. This is test for the translation"
+    test_text = "Hey"
     string_text = list()
     google_api = GoogleTranslateAPI()
     google_api.supp_language()
